@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="cloudflaredns.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="313"/>
+        <CursorPos X="15" Y="369"/>
+        <UsageCount Value="42"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\openssl\src\openssl.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="190" Y="83"/>
+        <UsageCount Value="8"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="91"/>
+        <CursorPos X="14" Y="157"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="65"/>
+        <CursorPos X="10" Y="85"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-base\src\custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="22"/>
+        <CursorPos X="20" Y="58"/>
+        <UsageCount Value="19"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\Users\D3lphi3r\AppData\Local\lazarus\onlinepackagemanager\packages\Indy10\Protocols\IdHTTP.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1033"/>
+        <CursorPos X="3" Y="1123"/>
+        <UsageCount Value="18"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\fgl.pp"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="7" Y="1023"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="59" Column="27" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="188" Column="56" TopLine="153"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="205" Column="7" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="207" Column="65" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="209" Column="9" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="202" Column="11" TopLine="163"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="199" Column="25" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="193" Column="8" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="177" Column="41" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="63" Column="29" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="62" Column="15" TopLine="31"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="188" Column="73" TopLine="167"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="214" Column="4" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="273" Column="27" TopLine="314"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="23" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="31" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="301" Column="14" TopLine="269"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="372" Column="88" TopLine="340"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="374" Column="33" TopLine="342"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="376" Column="33" TopLine="344"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="283" Column="29" TopLine="252"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="270" Column="26" TopLine="238"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="291" Column="34" TopLine="259"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="265" Column="27" TopLine="233"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\fgl.pp"/>
+        <Caret Line="1023" Column="20" TopLine="991"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="4"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="62" Column="15" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="66" Column="32" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="62" Column="25" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="cloudflaredns.lpr"/>
+        <Caret Line="139" Column="68"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

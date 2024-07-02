@@ -1,0 +1,21 @@
+{
+  "zone_id": "da936de9b8bbdc0268fb14a1d3e7d6de",
+  "token": "2345435yrdfSdqwart35wgsdgfsf235236463",
+  "records": [
+    {
+      "id": "f57621b1b174feaab0284f182901b544",
+      "host": "xyz.com",
+      "proxied": true
+    },
+    {
+      "id": "484a3ed2a39de05e9d921117f8e7fd6f",
+      "host": "sub1.xyz.com",
+      "proxied": false
+    },
+    {
+      "id": "f828218f1e82c284a3b8e0da41c9d29e",
+      "host": "sub2.xyz.com",
+      "proxied": true
+    }	
+  ]
+}
