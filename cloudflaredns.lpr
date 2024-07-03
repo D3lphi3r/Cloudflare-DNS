@@ -29,7 +29,7 @@ const
   _ParamHelp     = 'help';
   _ParamSilent   = 'Silent';
   _ParamGetIDs   = 'ids';
-  //_Version       = '1.0';
+  _Version       = '1.0';
 
 type
   PHostInfo = ^THostInfo;
@@ -240,7 +240,7 @@ begin
     Exit;
   end;
 
-  // Enable public IP checking since last run if paramter passwd to the command line.
+  // Enable public IP checking since last run if paramter passd to the command line.
   FSkipPupIPCheck := HasOption(_ParamSkip[1], _ParamSkip);
 
   // Enable / disable loffing to file.
@@ -418,8 +418,14 @@ end;
 
 procedure TCloudflareDNS.WriteHelp;
 begin
-  { add your help code here }
+  Writeln('Version: ', _Version);
   Writeln('Usage: ', ExeName, ' -h');
+  WriteLn();
+  Writeln(#9,_ParamSkip[1], ' | ', _ParamSkip, #9, 'Skip public IP checking since last run.');
+  Writeln(#9,_ParamLog[1], ' | ', _ParamLog, #9, 'Logging to file in the same directory.');
+  Writeln(#9,_ParamSilent[1], ' | ', _ParamSilent, #9, 'Disable console output.');
+  Writeln(#9,_ParamGetIDs[1], ' | ', _ParamGetIDs, #9, 'Print records ID under your zone.');
+  Writeln(#9,_ParamHelp[1], ' | ', _ParamHelp, #9, 'Prints this screen.');
 end;
 
 var
