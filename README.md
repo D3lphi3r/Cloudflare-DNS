@@ -10,4 +10,4 @@ You can also use the following parameters as needed:
 - `-S` or `--Silent`: Disables console outputs to prevent errors if stdout is not allocated.
 - `-i` or `-ids`: Obtains the MD5 hashes for each DNS record under your domain, which is useful for the initial run.
 
-  Can be used with crontab or create as service using systemd.
+  Can be used with crontab or create as systemd service.
