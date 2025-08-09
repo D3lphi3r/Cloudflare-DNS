@@ -19,7 +19,7 @@ uses
 
 const
   _JSONFile      = 'config.json';
-  _GetPubIPURL   = 'https://domains.google.com/checkip';
+  _GetPubIPURL   = 'https://ifconfig.me';
   _TempPubIPFile = 'ip.txt';
   //_AppURL        = 'https://github.com/D3lphi3r/cloudflare-dns';
   _LogFileName   = 'logs.txt';
@@ -436,4 +436,5 @@ begin
   Application.Run;
   Application.Free;
 end.
+
 
